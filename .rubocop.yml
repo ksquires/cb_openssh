@@ -1,4 +1,5 @@
 # This will disable the rule completely, regardless what other options you put
+Metrics/LineLength:
      Enabled: false
 # Change the default 80 chars limit value
 #    Max: 120

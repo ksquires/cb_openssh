@@ -1,6 +1,6 @@
 
 default['openssh']['server']['address_family'] = 'inet'
-default['openssh']['server']['protocol'] = [ '2' ]
+default['openssh']['server']['protocol'] = ['2']
 default['openssh']['server']['syslog_facility'] = 'AUTHPRIV'
 default['openssh']['server']['log_level'] = 'VERBOSE'
 default['openssh']['server']['challenge_response_authentication'] = 'no'
